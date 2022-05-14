@@ -4,7 +4,7 @@
 - 🌱 Learning .java, avaiable to work with .c
 - 🎯 Aiming back end, and game development
 - 💗 Love programming, computers, software, technology, and games.
-- English
+- 🌎 English
   + Good reader and listener, not so good at speeak currently.
 - 🔗 [linkedin.com/Yrian1](https://linkedin.com/in/yago-rian)
 <!---
