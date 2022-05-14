@@ -2,7 +2,7 @@
 - 👀 I’m interested in learn :)
 - 📚 Currently taking System Analysis and Development at [Ifba](https://portal.ifba.edu.br/ "Federal institute of bahia, located in brazil")
 - 🌱 Learning .java, avaiable to work with .c
-- ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square)![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square
+- ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=36465D&logoColor=AAA&style=flat-square) ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=36465D&logoColor=AAA&style=flat-square
 - 🎯 Aiming back end, and game development
 - 💗 Love programming, computers, software, technology, and games.
 - 🌎 English
