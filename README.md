@@ -6,7 +6,7 @@
 - 💗 Love programming, computers, software, technology, and games.
 - English
   + Good reader and listener, not so good at speeak currently.
-- 🔗 (linkedin.com/in/yago-rian)
+- 🔗 <https://linkedin.com/in/yago-rian>
 <!---
 Yrian1/Yrian1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
