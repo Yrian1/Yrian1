@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Yrian1
 - 👀 I’m interested in learn :)
 - 📚 Currently taking System Analysis and Development at [Ifba](https://portal.ifba.edu.br/ "Federal institute of bahia, located in brazil")
-- 🌱 Learning .java, avaiable to work with .c
-- 🛠️ Vim and terminal user
+- 🌱 Learning .java
+- 🛠️ NVim and terminal user
 - 🎯 Aiming back end, and game development
 - 💗 Love programming, computers, software, technology, and games.
 - 🌎 English
